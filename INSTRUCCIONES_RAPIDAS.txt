@@ -1,0 +1,128 @@
+╔═══════════════════════════════════════════════════════════════╗
+║  🚀 CÓMO PONER LA APP ITIL 4 EN VERCEL EN 5 PASOS 🚀         ║
+║     (Guía Ultra Rápida - 30 minutos máximo)                 ║
+╚═══════════════════════════════════════════════════════════════╝
+
+
+📋 REQUISITOS:
+  ✓ Una cuenta de email
+  ✓ Conexión a internet
+  ✓ 30 minutos de tu tiempo
+  ✓ Los 7 archivos del proyecto
+
+
+════════════════════════════════════════════════════════════════
+PASO 1️⃣ : GITHUB (5 minutos)
+════════════════════════════════════════════════════════════════
+
+1. Abre https://github.com
+2. Click "Sign up" 
+3. Crea usuario (ej: tu_nombre_2024)
+4. Verifica email
+5. Listo ✓
+
+
+════════════════════════════════════════════════════════════════
+PASO 2️⃣ : CREAR REPO EN GITHUB (5 minutos)
+════════════════════════════════════════════════════════════════
+
+1. En GitHub, click el "+" arriba a la derecha
+2. "New repository"
+3. Nombre: itil4-quiz
+4. Selecciona "Public"
+5. "Create repository"
+6. Listo ✓
+
+
+════════════════════════════════════════════════════════════════
+PASO 3️⃣ : SUBIR ARCHIVOS A GITHUB (10 minutos)
+════════════════════════════════════════════════════════════════
+
+1. En tu repo (itil4-quiz), click "Add file" → "Upload files"
+2. Arrastra los archivos:
+   
+   📄 package.json
+   📄 next.config.js
+   📄 .gitignore
+   📄 README.md
+   📁 app/
+      ├── 📄 layout.jsx
+      ├── 📄 page.jsx
+      └── 📄 globals.css
+
+3. Click "Commit changes"
+4. Listo ✓
+
+
+════════════════════════════════════════════════════════════════
+PASO 4️⃣ : VERCEL (5 minutos)
+════════════════════════════════════════════════════════════════
+
+1. Abre https://vercel.com
+2. Click "Sign Up" 
+3. "Continue with GitHub"
+4. Autoriza Vercel
+5. Listo ✓
+
+
+════════════════════════════════════════════════════════════════
+PASO 5️⃣ : DESPLEGAR (10 minutos + espera)
+════════════════════════════════════════════════════════════════
+
+1. En Vercel Dashboard, click "Add New" → "Project"
+2. Busca "itil4-quiz" en la lista
+3. Click "Import"
+4. Deja todo como está automáticamente
+5. Click "Deploy" (botón azul)
+6. ESPERA a que se compile (2-5 minutos)
+7. Ves "Deployment successful" ✓
+8. Click "Visit"
+
+¡LISTO! Tu URL es:
+https://itil4-quiz-xxxxx.vercel.app
+
+
+════════════════════════════════════════════════════════════════
+📱 PARA TU PAPÁ
+════════════════════════════════════════════════════════════════
+
+Comparte esta URL:
+👉 https://itil4-quiz-xxxxx.vercel.app
+
+Puede abrir en:
+  • Navegador del celular
+  • Navegador de computadora
+  • Cualquier dispositivo
+
+¡Sin necesidad de instalar nada!
+
+
+════════════════════════════════════════════════════════════════
+🆘 PROBLEMAS COMUNES
+════════════════════════════════════════════════════════════════
+
+❓ "No veo el botón de subir archivos"
+✓ Asegúrate de estar en TU repositorio, no en la página principal
+
+❓ "El deploy falla"
+✓ Verifica que los 7 archivos están en las carpetas correctas
+
+❓ "La URL no carga"
+✓ Espera 5 minutos y recarga, a veces es lento
+
+❓ "¿Cómo cambio algo después?"
+✓ Edita el archivo en GitHub y Vercel actualiza automáticamente
+
+
+════════════════════════════════════════════════════════════════
+✨ ¡YA ESTÁ! TU APP ESTÁ VIVA EN INTERNET 🎉
+════════════════════════════════════════════════════════════════
+
+Características:
+✓ 200+ preguntas de ITIL 4
+✓ Disponible 24/7
+✓ Funciona en cualquier dispositivo
+✓ Gratis
+✓ Sin instalaciones necesarias
+
+¡Que tu papá disfrute estudiando! 🚀📚
